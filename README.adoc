@@ -2,3 +2,14 @@
 
 This is the https://github.com/asciidoctor/asciidoctor/tree/main/src/stylesheets[Asciidoctor's Default Stylesheet] adapted for use in Telegram Mini Apps.
 This stylesheet respects Mini Apps' https://core.telegram.org/bots/webapps#themeparams[theme params], it means that it will adapt to the user's theme.
+
+== Demo
+
+image:screenshots/lavender-toc.png[width=300px]
+image:screenshots/lavender-body.png[width=300px]
+
+image:screenshots/arctic-toc.png[width=300px]
+image:screenshots/arctic-body.png[width=300px]
+
+image:screenshots/ivy-toc.png[width=300px]
+image:screenshots/ivy-body.png[width=300px]
